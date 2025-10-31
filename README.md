@@ -1,4 +1,4 @@
-ask 7 – Identify and Remove Suspicious Browser Extensions
+Task 7 – Identify and Remove Suspicious Browser Extensions
 📘 Objective
 To identify, review, and remove potentially harmful or unnecessary browser extensions that could pose security or privacy risks
 
